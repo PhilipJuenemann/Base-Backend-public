@@ -1,0 +1,12 @@
+requirements.txt
+setup.py
+The_Base.egg-info/PKG-INFO
+The_Base.egg-info/SOURCES.txt
+The_Base.egg-info/dependency_links.txt
+The_Base.egg-info/requires.txt
+The_Base.egg-info/top_level.txt
+package_functions/__init__.py
+package_functions/keyword_and_nes_API.py
+package_functions/summary.py
+package_functions/__pycache__/__init__.cpython-38.pyc
+package_functions/__pycache__/summary.cpython-38.pyc

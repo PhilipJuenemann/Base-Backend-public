@@ -1,0 +1,7 @@
+pandas
+spacy
+pytextrank
+yake
+monkeylearn
+nltk
+openai
